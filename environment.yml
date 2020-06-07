@@ -6,13 +6,13 @@ channels:
 dependencies:
   - jupyter
   - matplotlib
-  - mapboxgl
   - numpy
   - pandas
   - pip
   - pip:
     - boto3==1.13.24
     - botocore==1.16.24
+    - mapboxgl
     - pyqt5-sip==4.19.18
     - pyqtwebengine==5.12.1
     - rasterio==1.1.5
