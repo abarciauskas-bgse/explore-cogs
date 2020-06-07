@@ -4,9 +4,10 @@ channels:
   - rios
   - defaults
 dependencies:
-  - jupyter=1.0.0=py_2
-  - numpy=1.17.3=py37hde6bac1_0
-  - pandas=0.25.3=py37h4f17bb1_0
+  - jupyter
+  - numpy
+  - pandas
+  - pip
   - pip:
     - boto3==1.13.24
     - botocore==1.16.24
