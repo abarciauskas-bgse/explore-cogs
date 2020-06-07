@@ -5,6 +5,8 @@ channels:
   - defaults
 dependencies:
   - jupyter
+  - matplotlib
+  - mapboxgl
   - numpy
   - pandas
   - pip
