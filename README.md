@@ -15,7 +15,7 @@ open http://localhost:8888
 ## Local development
 
 ```bash
-docker build -t explore-cogs:latest .
+docker build -t explore-cogs:latest -f Dockerfile.base .
 # docker tag explore-cogs:latest aimeeb2/explore-cogs:latest
 # docker push aimeeb2/explore-cogs:latest
 ```
