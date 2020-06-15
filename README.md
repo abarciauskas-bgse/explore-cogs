@@ -2,7 +2,9 @@
 
 Notebooks for exploring Earth Observation Data in Cloud-Optimized GeoTIFFs (COGs)
 
-Explore using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abarciauskas-bgse/explore-cogs/master). Note: the first time you build the image in mybinder it takes a few minutes, so please be patient 😺.
+Explore using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abarciauskas-bgse/explore-cogs/master).
+
+Note: The mybinder image build takes a few minutes, so please be patient 😺.
 
 If you have docker installed, you can also pull an image run the code locally:
 
