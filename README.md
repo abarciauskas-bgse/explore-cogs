@@ -6,6 +6,8 @@ Explore using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.
 
 Note: The mybinder image build takes a few minutes, so please be patient 😺.
 
+## Run locally using docker
+
 If you have docker installed, you can also pull an image run the code locally:
 
 ```bash
@@ -14,7 +16,7 @@ docker run -d -p 8888:8888 --name explore-cogs explore-cogs:latest
 open http://localhost:8888
 ```
 
-## Local development
+### For local docker development
 
 ```bash
 docker build -t explore-cogs:latest -f Dockerfile.base .
